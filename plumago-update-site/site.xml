@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/de.jcup.plumago.feature_0.1.4.jar" id="de.jcup.plumago.feature" version="0.1.4">
+      <category name="plumago.category.alpha"/>
+   </feature>
+   <category-def name="plumago.category.alpha" label="Alpha"/>
+</site>
