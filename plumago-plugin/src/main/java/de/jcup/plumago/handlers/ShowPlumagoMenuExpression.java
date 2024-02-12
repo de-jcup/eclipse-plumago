@@ -1,3 +1,4 @@
+/* SPDX-License-Identifier: Apache-2.0 */
 package de.jcup.plumago.handlers;
 
 import org.eclipse.e4.core.di.annotations.Evaluate;
